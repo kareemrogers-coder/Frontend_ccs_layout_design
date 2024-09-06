@@ -3,7 +3,7 @@
     width:80%;
     border: 2px solid black;
     margin: 0 auto;
-    /* text-wrap: wrap; */
+    /* text-wrap: wrap;.. */
     grid-template-columns: 1fr 4fr; 
     grid-template-rows: 200px 690px 50px;
     /* grid-template-columns: auto; 
